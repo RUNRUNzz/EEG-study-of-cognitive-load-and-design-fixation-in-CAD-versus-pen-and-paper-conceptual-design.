@@ -21,7 +21,7 @@ The study compares conceptual design using **computer-aided design (CAD)** and *
 ## Repository Structure
 
 ```text
-CHB_reproducibility_code_final/
+CHB_reproducibility_code/
 │
 ├── analysis/
 │   ├── 03_NASA_TLX_analysis.R
