@@ -1,4 +1,4 @@
-# EEG-study-of-cognitive-load-and-design-fixation-in-CAD-versus-pen-and-paper-conceptual-design.
+# EEG-study-of-cognitive-load-and-design-fixation-in-CAD-versus-pen-and-paper-conceptual-design
 
 This repository contains the preprocessing, feature-extraction, statistical-analysis code, and de-identified derived data used to support the manuscript:
 
